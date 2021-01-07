@@ -1,4 +1,8 @@
-MIT License
+This code is originally from here: https://github.com/scijs/get-pixels. It
+has been forked here to implement a security update as the original author
+seems to be inactive on the original get-pixels repository.
+
+-----------------------------------------------------------------------------
 
 Copyright (c) 2021 Ollie
 
