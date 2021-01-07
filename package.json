@@ -1,7 +1,7 @@
 {
-  "name": "get-pixels",
-  "version": "3.3.2",
-  "description": "Reads the pixels of an image as an ndarray",
+  "name": "get-pixels-updated",
+  "version": "1.0.0",
+  "description": "An updated version of get-pixels that patches the CVE-2020-8175 security issue.",
   "main": "node-pixels.js",
   "directories": {
     "test": "test"
@@ -32,9 +32,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/scijs/get-pixels.git"
+    "url": "git://github.com/sysollie/get-pixels-updated.git"
   },
   "keywords": [
+    "get-pixels",
     "ndarray",
     "pixel",
     "get",
@@ -55,8 +56,7 @@
     "browserify"
   ],
   "browser": "dom-pixels.js",
-  "author": "Mikola Lysenko",
+  "author": "sysollie",
   "license": "MIT",
-  "readmeFilename": "README.md",
-  "gitHead": "380bbda330666e4a4066c48ef5a42770d13bcd5c"
+  "readmeFilename": "README.md"
 }
