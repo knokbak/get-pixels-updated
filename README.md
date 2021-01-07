@@ -1,4 +1,4 @@
-#### This is an updated version of get-pixels which patches the CVE-2020-8175 security issue. At the time of creation, every file is the same as the ones from the original repository, excluding the package.json.
+#### This is an updated version of [get-pixels](https://github.com/scijs/get-pixels) which patches the [CVE-2020-8175](https://github.com/advisories/GHSA-w7q9-p3jq-fmhm) security issue. At the time of creation, every file is the same as the ones from the original repository, excluding the package.json.
 
 get-pixels
 ==========
