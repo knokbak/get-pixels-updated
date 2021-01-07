@@ -15,7 +15,7 @@ Example
 =======
 
 ```javascript
-var getPixels = require("get-pixels")
+var getPixels = require("get-pixels-updated")
 
 getPixels("lena.png", function(err, pixels) {
   if(err) {
@@ -29,9 +29,9 @@ getPixels("lena.png", function(err, pixels) {
 Install
 =======
 
-    npm install get-pixels
+    npm install get-pixels-updated
 
-### `require("get-pixels")(url[, type], cb(err, pixels))`
+### `require("get-pixels-updated")(url[, type], cb(err, pixels))`
 Reads all the pixels from url into an ndarray.
 
 * `url` is the path to the file.  It can be a relative path, an http url, a data url, or an [in-memory Buffer](http://nodejs.org/api/buffer.html).
