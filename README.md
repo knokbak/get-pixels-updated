@@ -44,4 +44,4 @@ Reads all the pixels from url into an ndarray.
 
 Credits
 =======
-Original code from [get-pixels](https://github.com/scijs/get-pixels), updated by [sysollie](https://github.com/sysollie) to fix the [CVE-2020-8175](https://github.com/advisories/GHSA-w7q9-p3jq-fmhm) security issue. Code used and relicensed under the MIT license ([original](https://github.com/scijs/get-pixels/blob/master/LICENSE) | [new](https://github.com/sysollie/get-pixels-updated/blob/main/LICENSE)).
+Original code from [get-pixels](https://github.com/scijs/get-pixels), updated by [sysollie](https://github.com/sysollie) to fix the [CVE-2020-8175](https://github.com/advisories/GHSA-w7q9-p3jq-fmhm) security issue. Code used and relicensed under and in accordance with the MIT license ([original](https://github.com/scijs/get-pixels/blob/master/LICENSE) | [new](https://github.com/sysollie/get-pixels-updated/blob/main/LICENSE)).
